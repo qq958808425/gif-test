@@ -11,4 +11,5 @@ public class User {
     private Integer age;//增加年龄
     private String nickname;//昵称
     private String birthday;
+    private String address;
 }

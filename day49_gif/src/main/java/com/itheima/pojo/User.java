@@ -8,5 +8,6 @@ package com.itheima.pojo;
  */
 public class User {
     private String username;
+    private Integer age;//增加年龄
     private String nickname;//昵称
 }
